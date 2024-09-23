@@ -1,5 +1,5 @@
 # coding
-<h2 style="color: palevioletred;">this is my coding</h2> 
+<h2 style="color: palevioletred;">this is my code</h2> 
 
 
 

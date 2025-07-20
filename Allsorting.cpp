@@ -187,58 +187,7 @@ class AllSorting{
 
      obj.inputValue(n);
      obj.display();
-
-
-     /*cout<<"1.Bubble Sort \n 2.Selection Sort \n 3.Insertion Sort \n 4.Marge Sort \n 5.Radix Sort \n 6.Quick Sort\n"<<endl;
-
-     cout<<"Enter your choice for sorting (1/2/3/4/5/6/7):"<<endl;
-       int choice;
-       cin>>choice;
-
-       switch(choice){
-        case 1:
-                  cout<<"after bubble sort.."<<endl;
-                  obj.BubbleSort(n);
-                  obj.display();
-                     break;
-        case 2:
-
-                 cout<<"after selection sort......."<<endl;
-                  obj.selectionSort(n);
-                    obj.display();
-                       break;
-        case 3:
-                 cout<<"after insertion sort...."<<endl;
-                 obj.insertionSort(n);
-                 obj.display();
-                break;
-        case 4:
-
-
-                cout<<"after merge sorting....."<<endl;
-                obj.MargeSort(temp,0,n-1);
-                obj.display();
-                   break;
-        case 5:
-
-               cout<<"applying radixSort....."<<endl;
-               obj.radixSort(n);
-               obj.display();
-                   break;
-        case 6:
-               obj.quicksort(0,n-1);
-               cout<<"After quick sort......"<<endl;
-               obj.display();
-                    break;
-
-        default:
-                cout<<"exit"<<endl;
-                 }
-
-                 */
-
-
-    while (true) {
+     while (true) {
         cout << "\nChoose a sorting method:\n";
         cout << "1. Bubble Sort\n";
         cout << "2. Selection Sort\n";
